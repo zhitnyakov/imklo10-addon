@@ -33,8 +33,10 @@ IM KLO версии 1.0 (и/или выше) - чудотворная штука
 
 **ВНИМАНИЕ! Сделай резервные копии файлов, которые будешь заменять!**
 
-- [Скачай файл](http://yandex.ru) `main.php` и скопируй в `application/controllers`
-- [Скачай файл](http://yandex.ru) `routes.php` и скопируй в `application/config`
+[Скачай архив с файлами](https://github.com/zhitnyakov/imklo10-addon/archive/master.zip)
+
+- `main.php` скопируй в `application/controllers`
+- `routes.php` скопируй в `application/config`
 
 ## Фича#1 - Кастомное название JS файла
 
