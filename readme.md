@@ -58,6 +58,7 @@ IM KLO версии 1.0 (и/или выше) - чудотворная штука
  - `bootstrap.min.js`
  - `vue.min.js`
  - `moment.min.js`
+ - `angular.min.js`
  
  ## Фича#2 - Клоака через подмену HTML на лету
  
